@@ -1,5 +1,5 @@
 const valorF1 = 23.50
-const valorF2 = 109.99
+const valorF2 = 109.00
 const valorF3 = 3.00
 
 let q1 = 0
